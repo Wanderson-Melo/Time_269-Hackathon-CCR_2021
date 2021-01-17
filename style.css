@@ -195,3 +195,23 @@ main {
 .rodape2 {
     top: 55px;
 }
+.entrada2{
+    width: 85%;
+}
+/*CURRÍCULO*/
+.curriculo {
+    padding: 20px;
+}
+.curriculo2 {
+    padding: 20px;
+}
+.entrada3 {
+    margin-top: -20px;
+    padding: 0;
+}
+.btn-curriculo {
+    margin-top: 20px;
+}
+.rodape3 {
+    top: 22px;
+}
