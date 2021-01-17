@@ -215,3 +215,42 @@ main {
 .rodape3 {
     top: 22px;
 }
+/*PERFIL*/
+.em-analise{
+    background-color: #F6FC6C;
+    text-align: center;
+}
+.finalizado {
+    background-color: #DD3930;
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+}
+.foto-perfil {
+    width: 115px;
+    border-radius: 50%;
+}
+.m-candidaturas{
+    padding: 0;
+}
+.dados {
+    color: rgba(0, 0, 0, .5);
+}
+.dados img{
+    width: 20px;
+}
+.dados-total {
+    width: 95%;
+}
+.dados-idade {
+    display: flex;
+}
+.idade {
+    width: 200px;
+}
+.dados-idade img {
+    width: 50px;
+}
+.imagem-curriculo {
+    padding-bottom: 20px;
+}
