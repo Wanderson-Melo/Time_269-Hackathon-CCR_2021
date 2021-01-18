@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Roboto', sans-serif;    
+    font-family: 'Roboto', sans-serif;  
 }
 main {
     width: 360px;
